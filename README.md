@@ -1,0 +1,1 @@
+Criei um projeto chamado gama no css para praticar css, flexbox e media query.
